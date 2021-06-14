@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 8： Dynamics 365 Supply Chain Management 顶点实验室'
     module: '模块 1： 学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识'
