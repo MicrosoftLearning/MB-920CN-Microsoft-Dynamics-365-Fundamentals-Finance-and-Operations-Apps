@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示 2： 创建发票'
     module: '模块 5： 学习 Microsoft Dynamics 365 Project Operations 的基础知识'
