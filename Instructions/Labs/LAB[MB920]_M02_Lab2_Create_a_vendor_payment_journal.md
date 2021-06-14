@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 2： 创建供应商付款日记帐'
     module: '模块 2： 学习 Microsoft Dynamics 365 Finance 的基础知识'
