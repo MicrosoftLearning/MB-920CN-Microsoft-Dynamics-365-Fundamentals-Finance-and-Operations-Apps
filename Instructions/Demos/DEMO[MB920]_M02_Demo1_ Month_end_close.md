@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示 1： 月末结算'
     module: '模块 2： 学习 Microsoft Dynamics 365 Finance 的基础知识'
