@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 3：Dynamics 365 Finance 顶点实验室'
     module: '模块 2：学习 Microsoft Dynamics 365 Finance 的基础知识'
