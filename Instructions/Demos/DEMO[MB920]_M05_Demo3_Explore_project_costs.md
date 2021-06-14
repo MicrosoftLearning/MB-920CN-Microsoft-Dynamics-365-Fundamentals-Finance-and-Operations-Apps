@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示 3： 了解项目成本'
     module: '模块 5： 学习 Microsoft Dynamics 365 Project Operations 的基础知识'
