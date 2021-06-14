@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 2：创建产品分类'
     module: '模块 3：学习 Microsoft Dynamics 365 Commerce 的基础知识'
