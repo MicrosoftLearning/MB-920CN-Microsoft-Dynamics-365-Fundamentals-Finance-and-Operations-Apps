@@ -26,7 +26,7 @@ lab:
 
         粘贴内容
 
-        管理员
+        Administrator
 
     - 密码：
 
