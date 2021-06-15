@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 7： 创建计划的工作订单'
     module: '模块 1： 学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 1： Dynamics 365 Human Resources 顶点实验室'
     module: '模块 4： 学习 Microsoft Dynamics 365 Human Resources 的基础知识'

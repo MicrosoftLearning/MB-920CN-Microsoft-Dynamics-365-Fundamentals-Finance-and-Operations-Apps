@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 2：探索工作区和筛选功能'
     module: '模块 1：学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识'

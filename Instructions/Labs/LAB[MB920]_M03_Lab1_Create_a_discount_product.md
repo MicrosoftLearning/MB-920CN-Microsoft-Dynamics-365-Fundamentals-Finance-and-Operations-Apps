@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 1：创建折扣产品'
     module: '模块 3：学习 Microsoft Dynamics 365 Commerce 的基础知识'
