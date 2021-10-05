@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 3： 创建具有各种尺寸和颜色的产品'
     module: '模块 1： 学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识'
