@@ -6,7 +6,7 @@ lab:
 
 # 模块 1：学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识
 
-## 实验室 3 - 创建具有各种尺寸和颜色的产品
+## 实验室 3 - 创建新产品
 
 ## 目标
 
