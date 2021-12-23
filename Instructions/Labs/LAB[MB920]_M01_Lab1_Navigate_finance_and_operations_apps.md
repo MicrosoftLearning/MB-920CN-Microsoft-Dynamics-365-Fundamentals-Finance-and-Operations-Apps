@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 1： 浏览财务和运营应用'
     module: '模块 1： 学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识'
