@@ -4,7 +4,7 @@ lab:
     module: '模块 1： 学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识'
 ---
 
-# 模块 1：学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识
+# 模块 1： 学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识
 
 ## 实验室 1 - 浏览财务和运营应用
 
@@ -79,7 +79,7 @@ lab:
 
 1. 在 **“设置”** 下，选择 **“客户端性能选项”**。
 
-1. 在“客户端性能选项”窗格中，选择 **“启用功能标注”** 下的切换开关，并将其设置为 **“是”**。
+1. 在“客户端性能选项”窗格中的“**启用功能标注**”下，选择切换开关并确保将其设为“**是**”。
 
 1. 查看其他可用选项，滚动到窗格底部，然后选择 **“确定”**。
 
